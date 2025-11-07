@@ -1,0 +1,5 @@
+{
+  "name": "Food Token Issue System",
+  "description": "A comprehensive system to issue and track food tokens for various meals and locations. It includes detailed reporting modules for daily summaries, institution-wise analysis, and tracking of free tokens by reason.",
+  "requestFramePermissions": []
+}
